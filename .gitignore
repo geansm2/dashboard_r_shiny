@@ -1,0 +1,18 @@
+# History files
+.Rhistory
+.RData
+.Ruserdata
+
+# Example: if you use RStudio
+.Rproj.user/
+
+# Produced files
+*.pdf
+*.docx
+*.html
+
+# Data folder (optional: uncomment if you don't want to commit data)
+# data/*.csv
+
+# Project-specific
+.Rprofile
