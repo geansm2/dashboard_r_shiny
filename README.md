@@ -10,6 +10,14 @@ Este projeto consiste em um dashboard interativo desenvolvido em **R** utilizand
 
 A interface foi projetada para permitir a exploração dinâmica de dados, identificando gargalos logísticos e oportunidades de otimização de margem.
 
+### Demonstração do Painel
+
+#### Visão Geral e Indicadores
+![Visão Geral](img/visao_geral.png)
+
+#### Detalhamento de Dados Operacionais
+![Tabela de Dados](img/tabela_de_dado.png)
+
 ## Indicadores Chave (KPIs)
 
 O painel está estruturado em dois pilares fundamentais:
