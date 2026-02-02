@@ -6,7 +6,7 @@
 
 ## Visão Geral
 
-Este projeto consiste em um dashboard interativo desenvolvido em **R** utilizando o framework **Shiny**. O objetivo principal é fornecer uma ferramenta de suporte à decisão para gestores, integrando fluxos operacionais e resultados financeiros de uma operação de varejo (e-commerce).
+Este projeto apresenta um dashboard interativo desenvolvido em **R Shiny** com foco em suporte à decisão gerencial, integrando indicadores operacionais e financeiros de uma operação de varejo (e-commerce).
 
 A interface foi projetada para permitir a exploração dinâmica de dados, identificando gargalos logísticos e oportunidades de otimização de margem.
 
